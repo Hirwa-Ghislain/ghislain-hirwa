@@ -8,10 +8,18 @@
   },
   "keywords": [],
   "author": "ghislain",
-  "license": "GPL",
+  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hirwa-Ghislain/ghislain-hirwa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hirwa-Ghislain/ghislain-hirwa/issues"
+  },
+  "homepage": "https://github.com/Hirwa-Ghislain/ghislain-hirwa#readme"
 }
